@@ -3,8 +3,6 @@ using namespace std;
 #define ll long long
 const int MAX=1e9+7;
 
-
-
 struct Task {
     string title;
     string dueDate;
